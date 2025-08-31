@@ -1,4 +1,4 @@
-# Microbiological Surveillance Dashboard
+# Dashboard de Vigilância Microbiológica
 
 ![Demonstração do Dashboard](assets/microbiologial_surveillance_dashboard.gif)
 
