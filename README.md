@@ -8,7 +8,7 @@
 
 ## 📄 Sobre o Projeto
 
-Este projeto nasceu de uma idealização do Dr. Luis Visconde, médico infectologista e, durante o desenvolvimento do relatório original (06/2024), responsável por dois Serviços de Controle de Infecções Relacionadas à Assistência à Saúde (SCIRAS).
+Este projeto nasceu de uma idealização do <a href="https://www.linkedin.com/in/luis-felipe-visconde-87a329124/">Dr. Luis Visconde</a>, médico infectologista e, durante o desenvolvimento do relatório original (06/2024), responsável por dois Serviços de Controle de Infecções Relacionadas à Assistência à Saúde (SCIRAS).
 
 Ele identificou uma lacuna crítica comum a muitas instituições hospitalares: embora os dados de crescimento microbiológico representem um valioso ativo para a vigilância epidemiológica, eles são frequentemente subutilizados. Essa falta de uma visão centralizada resultava em desafios práticos significativos:
 
@@ -18,7 +18,7 @@ Ele identificou uma lacuna crítica comum a muitas instituições hospitalares: 
 
 Sem uma ferramenta de visualização unificada, a vigilância epidemiológica tornava-se um processo reativo e manual, em vez de proativo e orientado por dados.
 
-Para solucionar essa lacuna, assumi o desafio de desenvolver uma ferramenta de visualização de dados. Fui responsável pela condução de todas as etapas do processo: desde o tratamento e modelagem dos dados brutos extraídos do sistema laboratorial (baseado nos sistemas Shift), ao design e implementação do dashboard, possibilitando:
+Para solucionar essa lacuna, assumi o desafio de desenvolver uma ferramenta de visualização de dados. Fui responsável pela condução de todas as etapas do processo: desde o tratamento e modelagem dos dados brutos extraídos do sistema laboratorial (baseado nos sistemas <a href="https://shift.com.br/">Shift</a>), ao design e implementação do dashboard, possibilitando:
 
 * **Vigilância ativa de indicadores:** Acompanhar a evolução mensal das taxas de positividade das culturas e dos índices de resistência antimicrobiana, identificando tendências e desvios do padrão esperado de forma clara e visual.
 * **Identificar ameaças clínicas:** Mapear os isolados de maior relevância clínica no ambiente hospitalar e a prevalência de mecanismos de resistência enzimática (como KPC, MBL, ESBL).
